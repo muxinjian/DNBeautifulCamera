@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-DNBeautifulCamera/Pods-DNBeautifulCamera-frameworks.sh
+${BUILT_PRODUCTS_DIR}/GPUImage/GPUImage.framework
+${BUILT_PRODUCTS_DIR}/Masonry/Masonry.framework
+${BUILT_PRODUCTS_DIR}/RSSwizzle/RSSwizzle.framework
+${BUILT_PRODUCTS_DIR}/Toast/Toast.framework
